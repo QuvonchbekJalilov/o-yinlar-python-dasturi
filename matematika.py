@@ -1,6 +1,15 @@
 import random
 import os
 
+
+
+# bu yerda yangi kodlar yozildi
+
+
+# yana yangi kod qo'shildi
+
+
+
 def menu():
     ishora = True
     while True:
