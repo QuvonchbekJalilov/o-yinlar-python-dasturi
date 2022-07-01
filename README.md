@@ -1,0 +1,1 @@
+# o-yinlar-python-dasturi
